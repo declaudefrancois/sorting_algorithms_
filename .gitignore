@@ -1,1 +1,5 @@
-bubble
+*
+!.gitignore
+!*.c
+!*.h
+!*.md
